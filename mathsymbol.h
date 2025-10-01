@@ -1,0 +1,1 @@
+void checkSymbol(char* argv[], int a, int b);
